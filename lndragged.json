@@ -12,11 +12,17 @@
   ],
   "status": "Ongoing",
   "chapters": {
-    "chapter-1": {
+    "vol-1-chapter-1": {
+      "volume": "1",
+      "title": "Illustrations",
+      "last_updated": 1754914807968,
+      "url": "reincarnation/v1ch1.mdx"
+    },
+    "vol-1-chapter-2": {
       "volume": "1",
       "title": "Prologue",
-      "last_updated": 1754893605,
-      "url": "reincarnation/v1ch0.mdx"
+      "last_updated": 1754914807968,
+      "url": "reincarnation/v1ch2.mdx"
     }
   }
 }
